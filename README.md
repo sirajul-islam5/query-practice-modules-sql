@@ -1,7 +1,7 @@
 # SQL Mastery: A Comprehensive Learning Journey
 This repository contains a structured, 5-part series of SQL scripts developed during an intensive training marathon. It covers the full spectrum of SQL skills, from foundational data definition to complex analytical querying.
 
-## 📁 Repository Structure
+## Repository Structure
 The project is divided into five logical modules for better navigation and learning:
 
 1. **[01_DDL_and_DML_Basics.sql](./01_DDL_and_DML_Basics.sql)**
@@ -24,7 +24,7 @@ The project is divided into five logical modules for better navigation and learn
    * Covers Data Maintenance (`UPDATE`, `DELETE`) and Schema Evolution (`ALTER TABLE`).
    * Includes final capstone exercises and practical case studies.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** SQL (Structured Query Language)
 * **Environment:** MySQL Workbench
 * **Key Skills:** Database Design, Data Integrity, Relational Logic, and Analytical Querying. 
